@@ -1,2 +1,2 @@
 # maheshbhai-demo
-Author<Maheshbhai Rathwa>
+Author=Maheshbhai Rathwa
